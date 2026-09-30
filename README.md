@@ -1,4 +1,4 @@
-> **Academic Project — Instituto Superior de Engenharia de Coimbra (ISEC)**
+> **Academic Project - Instituto Superior de Engenharia de Coimbra (ISEC)**
 >
 > This public repository is a portfolio-ready version. The original academic submission is preserved separately in a private `-isec-archive` repository; later improvements may be present here.
 
@@ -486,15 +486,15 @@ run_server3.bat
 
 The repository includes additional architecture and interaction diagrams:
 
-- [`docs/Geral.png`](docs/Geral.png) — complete system interaction;
-- [`docs/Directory.png`](docs/Directory.png) — directory-service flow;
-- [`docs/Server.png`](docs/Server.png) — server behaviour;
-- [`docs/Client.png`](docs/Client.png) — client behaviour;
-- [`docs/Comunicação_geral.png`](docs/Comunicação_geral.png) — communication overview.
+- [`docs/Geral.png`](docs/Geral.png) - complete system interaction;
+- [`docs/Directory.png`](docs/Directory.png) - directory-service flow;
+- [`docs/Server.png`](docs/Server.png) - server behaviour;
+- [`docs/Client.png`](docs/Client.png) - client behaviour;
+- [`docs/Comunicação_geral.png`](docs/Comunicação_geral.png) - communication overview.
 
 ## Academic Context
 
-This project was developed as a collaborative assignment for the **Distributed Programming** course of the Bachelor's Degree in Computer Engineering at the **Instituto Superior de Engenharia de Coimbra — ISEC**, during the 2025/2026 academic year.
+This project was developed as a collaborative assignment for the **Distributed Programming** course of the Bachelor's Degree in Computer Engineering at the **Instituto Superior de Engenharia de Coimbra - ISEC**, during the 2025/2026 academic year.
 
 The project focused on applying distributed-systems concepts through a complete implementation rather than relying on external distributed-system frameworks.
 
